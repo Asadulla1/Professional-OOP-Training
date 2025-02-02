@@ -1,0 +1,7 @@
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+F:\OOP Professional Training\C# Recap\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
